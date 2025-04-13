@@ -1,0 +1,15 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.16.3
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Sun Apr 13 00:56:47 2025"
+  rime_version: 1.11.2
+patch:
+  "app_options/OpenConsole.exe":
+    ascii_mode: true
+  "app_options/PowerToys.PowerLauncher.exe":
+    ascii_mode: true
+  "app_options/WindowsTerminal.exe":
+    ascii_mode: true
+  "style/color_scheme": win11_simulate
+  "style/display_tray_icon": false
